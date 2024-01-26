@@ -13,7 +13,7 @@ To use the extension, follow these steps:
 - Open **Google Chrome**.
 - Navigate to **chrome://extensions/**.
 - Enable "**Developer mode**" in the top-right corner.
-- Click on "**Load unpacked**" and select the folder named **Deception Dectection**.
+- Click on "**Load unpacked**" and select the folder named **"Deception Dectection"**.
 ## Usage
 Once the extension is installed, click on the extension icon in the Chrome toolbar. The extension popup will appear, providing information on the presence of deceptive words on the current webpage.
 Note: If the extension is not loaded refresh the webpage and try again.
