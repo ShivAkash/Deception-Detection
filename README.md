@@ -1,4 +1,5 @@
 # Deception-Detection
+
 ## Screenshots
 ![image](https://github.com/ShivAkash/Deception-Detection/assets/75986286/c810fe3e-4abc-4ff4-9a3d-922ce5f09b8b)
 ![IMG_20240126_151735 (2)](https://github.com/ShivAkash/Deception-Detection/assets/75986286/e578cdbb-4605-4e55-9952-d37a7c96f1cf)
@@ -14,6 +15,7 @@ To use the extension, follow these steps:
 - Navigate to **chrome://extensions/**.
 - Enable "**Developer mode**" in the top-right corner.
 - Click on "**Load unpacked**" and select the folder named **"Deception Dectection"**.
+  
 ## Usage
 Once the extension is installed, click on the extension icon in the Chrome toolbar. The extension popup will appear, providing information on the presence of deceptive words on the current webpage.
 Note: If the extension is not loaded refresh the webpage and try again.
