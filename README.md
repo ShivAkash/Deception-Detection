@@ -1,7 +1,7 @@
 # Deception-Detection
 ## Screenshots
-![image](https://github.com/ShivAkash/Deception-Detection/assets/75986286/dcbebd5f-f840-45b8-8863-23f4ba18e938)
-![image](https://github.com/ShivAkash/Deception-Detection/assets/75986286/ca2328df-c9a6-4bdf-a1fc-05ba4d3e40f5)
+![image](https://github.com/ShivAkash/Deception-Detection/assets/75986286/c810fe3e-4abc-4ff4-9a3d-922ce5f09b8b)
+![IMG_20240126_151735 (2)](https://github.com/ShivAkash/Deception-Detection/assets/75986286/e578cdbb-4605-4e55-9952-d37a7c96f1cf)
 
 ## Overview
 The Deception Detect Extension is a tool designed to help users identify potential deceptive content on websites by scanning for the presence of known deceptive words. The extension analyzes webpage content for a comprehensive list of deceptive words associated with dark patterns and misleading practices.
