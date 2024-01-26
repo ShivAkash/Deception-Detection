@@ -28,7 +28,5 @@ Note: If the extension is not loaded refresh the webpage and try again.
 ## Contributing
 If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request.
 
-## License
--
 
 
