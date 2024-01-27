@@ -1,5 +1,5 @@
 ﻿{
-  "name": "Deception detect",
+  "name": "DeceptionDetect",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [
