@@ -9,7 +9,6 @@ The Deception Detect Extension is a tool designed to help users identify potenti
 
 ## Installation
 To use the extension, follow these steps:
-
 - Download or clone this repository.
 - Open **Google Chrome**.
 - Navigate to **chrome://extensions/**.
